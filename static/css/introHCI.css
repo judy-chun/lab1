@@ -1,7 +1,9 @@
 /* applies to anything of class "example-class-selector" */
 .project {
+     background-color: #ADD8E6;
      margin-left: 20px;
 }
+
 .example-class-selector {
 	margin-top: 2em;
 }
